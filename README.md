@@ -1,1 +1,2 @@
-# aivle-mini-proj-4
+# AIVLE SCHOOL 미니프로젝트 4차
+## 이미지 데이터 모델링 및 얼굴인식
